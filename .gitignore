@@ -1,0 +1,7 @@
+__pycache__/
+.mypy_cache/
+.vscode
+*.pdf
+*.sqlite3
+*.bin
+.env
